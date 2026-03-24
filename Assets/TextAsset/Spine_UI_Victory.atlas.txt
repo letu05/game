@@ -1,0 +1,195 @@
+
+Spine_UI_Victory.png
+size: 1920,796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Board
+  rotate: true
+  xy: 2, 224
+  size: 568, 457
+  orig: 568, 553
+  offset: 0, 0
+  index: -1
+Button_Menu
+  rotate: true
+  xy: 203, 14
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+Button_Menu_BG
+  rotate: false
+  xy: 1785, 90
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Button_Play_BG
+  rotate: false
+  xy: 1785, 90
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Button_Replay_BG
+  rotate: false
+  xy: 1785, 90
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+Button_Play
+  rotate: false
+  xy: 253, 18
+  size: 45, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+Button_Replay
+  rotate: true
+  xy: 147, 10
+  size: 56, 54
+  orig: 59, 57
+  offset: 2, 2
+  index: -1
+Dust_1
+  rotate: false
+  xy: 1553, 2
+  size: 230, 153
+  orig: 234, 157
+  offset: 2, 2
+  index: -1
+Dust_10
+  rotate: true
+  xy: 1590, 563
+  size: 229, 325
+  orig: 233, 329
+  offset: 2, 2
+  index: -1
+Dust_11
+  rotate: true
+  xy: 461, 249
+  size: 169, 313
+  orig: 173, 316
+  offset: 3, 1
+  index: -1
+Dust_2
+  rotate: false
+  xy: 879, 63
+  size: 334, 255
+  orig: 337, 259
+  offset: 1, 2
+  index: -1
+Dust_3
+  rotate: true
+  xy: 1038, 442
+  size: 350, 283
+  orig: 355, 288
+  offset: 3, 3
+  index: -1
+Dust_4
+  rotate: true
+  xy: 750, 426
+  size: 366, 286
+  orig: 371, 289
+  offset: 2, 2
+  index: -1
+Dust_5
+  rotate: true
+  xy: 461, 420
+  size: 372, 287
+  orig: 376, 290
+  offset: 2, 1
+  index: -1
+Dust_6
+  rotate: false
+  xy: 1229, 128
+  size: 304, 312
+  orig: 308, 316
+  offset: 2, 2
+  index: -1
+Dust_7
+  rotate: false
+  xy: 1323, 473
+  size: 265, 319
+  orig: 269, 323
+  offset: 2, 2
+  index: -1
+Dust_8
+  rotate: false
+  xy: 1535, 157
+  size: 240, 314
+  orig: 243, 317
+  offset: 1, 1
+  index: -1
+Dust_9
+  rotate: true
+  xy: 552, 10
+  size: 237, 325
+  orig: 240, 328
+  offset: 2, 1
+  index: -1
+Silk
+  rotate: false
+  xy: 2, 68
+  size: 548, 154
+  orig: 548, 154
+  offset: 0, 0
+  index: -1
+Silk_BG_L
+  rotate: false
+  xy: 2, 18
+  size: 143, 48
+  orig: 143, 48
+  offset: 0, 0
+  index: -1
+Silk_L
+  rotate: false
+  xy: 1215, 25
+  size: 200, 101
+  orig: 200, 101
+  offset: 0, 0
+  index: -1
+Star_Gold2
+  rotate: false
+  xy: 1777, 426
+  size: 136, 135
+  orig: 138, 137
+  offset: 1, 1
+  index: -1
+Star_SD
+  rotate: false
+  xy: 1417, 29
+  size: 134, 97
+  orig: 136, 99
+  offset: 1, 1
+  index: -1
+Star_SD2
+  rotate: false
+  xy: 1590, 488
+  size: 121, 73
+  orig: 123, 75
+  offset: 1, 1
+  index: -1
+Star_SD3
+  rotate: false
+  xy: 1777, 191
+  size: 133, 96
+  orig: 135, 98
+  offset: 1, 1
+  index: -1
+Star_Silver
+  rotate: false
+  xy: 1777, 289
+  size: 136, 135
+  orig: 138, 137
+  offset: 1, 1
+  index: -1
+Victory_Banner
+  rotate: false
+  xy: 776, 320
+  size: 451, 104
+  orig: 453, 107
+  offset: 1, 2
+  index: -1

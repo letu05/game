@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 673e0a6179eaae54db0a0e345c1d7e86
+timeCreated: 1774246714
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SVN-Supercell Magic
+  - Super Mario 256
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1958bb86f1d25f4d9c02e929fc4adac, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:

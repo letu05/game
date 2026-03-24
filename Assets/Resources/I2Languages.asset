@@ -1,0 +1,2044 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3def4f9b9791e4ac309c3241680dc3ee, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier:
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 0
+    mTerms:
+    - Term: BIG_SALE
+      TermType: 0
+      Languages:
+      - SIÊU GIẢM GIÁ!
+      - BIG SALE!
+      - 大促销！
+      - GROSSE PROMO !
+      - SONDERANGEBOT!
+      - बड़ी सेल!
+      - BIG SALE!
+      - GRANDE OFFERTA!
+      - ビッグセール
+      - 대형 할인!
+      - GRANDE VENDA!
+      - БОЛЬШАЯ РАСПРОДАЖА!
+      - ¡GRAN OFERTA!
+      - ลดจัดหนัก
+      - BÜYÜK KAMPANYA!
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Bullet
+      TermType: 0
+      Languages:
+      - Đạn
+      - Bullet
+      - 子弹
+      - Balle
+      - Kugel
+      - बुलेट
+      - Peluru
+      - Proiettile
+      - 弾丸
+      - 총알
+      - Bala
+      - Снаряд
+      - Bala
+      - กระสุน
+      - Mermi
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Buy_Boomerang
+      TermType: 0
+      Languages:
+      - Bạn sở hữu Boomerang
+      - You owned Boomerang
+      - 你拥有了回旋镖
+      - Vous avez obtenu un boomerang
+      - Du hast Bumerang besessen
+      - आप बुमेरांग के मालिक थे
+      - Kamu punya Bumerang
+      - Possedevi Boomerang
+      - ブーメランを持っています
+      - 부메랑을 얻었습니다
+      - Tinhas o Bumerangue
+      - Вы получили Бумеранг
+      - Has adquirido un bumerán
+      - คุณได้บูมเมอแรง
+      - Bumeranga sahip oldun
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Buy_Rainbow
+      TermType: 0
+      Languages:
+      - Bạn sở hữu Rainbow
+      - You owned Rainbow
+      - 你拥有了彩虹
+      - Vous avez obtenu un arc-en-ciel
+      - Du hast Regenbogen besessen
+      - आप इंद्रधनुष के मालिक थे
+      - Kamu punya Pelangi
+      - Possedevi Arcobaleno
+      - レインボウを持っています
+      - 레인보우를 얻었습니다
+      - Tinhas o Arco-Íris
+      - Вы получили Радугу
+      - Has adquirido un arcoíris
+      - คุณได้สายรุ้ง
+      - Gökkuşağına sahip oldun
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: CLAIM
+      TermType: 0
+      Languages:
+      - Nhận
+      - CLAIM
+      - 领取
+      - RÉCUPÉRER
+      - ABRUFEN
+      - दावा करें
+      - KLAIM
+      - RICHIEDI
+      - 受け取り
+      - 받기
+      - RECLAMAR
+      - ПОЛУЧИТЬ
+      - RECLAMAR
+      - ขอรับ
+      - AL
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Cancel
+      TermType: 0
+      Languages:
+      - Không
+      - Cancel
+      - 取消
+      - Annuler
+      - Abbrechen
+      - रद्द करें
+      - Batal
+      - Annulla
+      - キャンセル
+      - 취소
+      - Cancelar
+      - Отменить
+      - Cancelar
+      - ยกเลิก
+      - İptal et
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Card
+      TermType: 0
+      Languages:
+      - Thẻ
+      - Card
+      - 卡片
+      - Carte
+      - Karte
+      - कार्ड
+      - Kartu
+      - Carta
+      - カード
+      - 카드
+      - Carta
+      - Карта
+      - Carta
+      - การ์ด
+      - Kart
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: ChangeName
+      TermType: 0
+      Languages:
+      - Đổi tên
+      - Change Name
+      - 修改名字
+      - Modifier le nom
+      - Name ändern
+      - नाम बदलें
+      - UbahNama
+      - Cambia nome
+      - 名前を変更
+      - 이름 변경
+      - MudarNome
+      - Изменить имя
+      - Cambiar nombre
+      - เปลี่ยนชื่อ
+      - Ad Değiştir
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: ChooseLanguage
+      TermType: 0
+      Languages:
+      - Ngôn ngữ
+      - Language
+      - 语言
+      - Langue
+      - Sprache
+      - भाषा
+      - Bahasa
+      - Lingua
+      - 言語
+      - 언어
+      - Idioma
+      - Язык
+      - Idioma
+      - ภาษา
+      - Dil
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Coin
+      TermType: 0
+      Languages:
+      - Vàng
+      - Coin
+      - 金币
+      - Pièce
+      - Münze
+      - सिक्‍का
+      - Koin
+      - Moneta
+      - コイン
+      - 코인
+      - Moeda
+      - Монета
+      - Moneda
+      - เหรียญ
+      - Sikke
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Come_back
+      TermType: 0
+      Languages:
+      - Vui lòng quay trở lại vào ngày hôm sau!
+      - Please come back tomorow!
+      - 请明天再来吧！
+      - Revenez demain !
+      - Bitte komm morgen wieder!
+      - कृपया कल वापस आएंं!
+      - Silakan kembali lagi besok!
+      - Torna domani!
+      - 明日また戻ってきてください！
+      - 내일 다시 와주세요!
+      - Por favor, volta amanhã!
+      - Возвращайтесь завтра!
+      - ¡Vuelve mañana!
+      - กรุณากลับมาอีกครั้งพรุ่งนี้!
+      - Lütfen yarın tekrar gel!
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Coming_soon
+      TermType: 0
+      Languages:
+      - Sắp ra mắt
+      - Coming soon
+      - 即将到来
+      - Prochainement
+      - Bald verfügbar
+      - शीघ्र आ रहा है
+      - Segera hadir
+      - In arrivo
+      - 乞うご期待
+      - 추후 공개
+      - Em breve
+      - Уже скоро
+      - Próximamente
+      - เร็ว ๆ นี้
+      - Yakında
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Completed
+      TermType: 0
+      Languages:
+      - hoàn thành
+      - completed
+      - 已完成
+      - Terminé(e)
+      - Abgeschlossen
+      - संपन्‍न
+      - Selesai
+      - Completato
+      - クリア
+      - 완료
+      - Terminado
+      - Завершено
+      - Completado
+      - สำเร็จแล้ว
+      - Tamamlandı
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: DAILY_GIFT
+      TermType: 0
+      Languages:
+      - Quà Tặng Hằng Ngày
+      - DAILY GIFT
+      - 每日礼物
+      - CADEAU QUOTIDIEN
+      - TÄGLICHES GESCHENK
+      - दैनिक उपहार
+      - HADIAH HARIAN
+      - REGALO GIORNALIERO
+      - デイリーギフト
+      - 일일 선물
+      - PRESENTE DIÁRIO
+      - ЕЖЕДНЕВНЫЙ ПОДАРОК
+      - REGALO DIARIO
+      - ของขวัญประจำวัน
+      - GÜNLÜK HEDİYE
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: DownloadNow
+      TermType: 0
+      Languages:
+      - Tải ngay
+      - Dowload Now
+      - 立即下载
+      - Télécharger maintenant
+      - Jetzt herunterladen
+      - अभी डाउनलोड करें
+      - Unduh Sekarang
+      - Scarica adesso
+      - 今すぐダウンロード
+      - 지금 다운로드
+      - Transferir agora
+      - Загрузить сейчас
+      - Descargar ahora
+      - ดาวน์โหลดทันที
+      - Şimdi İndir
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Fail
+      TermType: 0
+      Languages:
+      - thất bại
+      - fail
+      - 失败
+      - échec
+      - Niederlage
+      - असफल
+      - gagal
+      - non riuscito
+      - 失敗
+      - 실패
+      - falhou
+      - неудача
+      - fallo
+      - ล้มเหลว
+      - başarısız
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Friday
+      TermType: 0
+      Languages:
+      - Thứ sáu
+      - Friday
+      - 星期五
+      - Vendredi
+      - Freitag
+      - शुक्रवार
+      - Jumat
+      - Venerdì
+      - 金曜日
+      - 금요일
+      - Sexta-feira
+      - Пятница
+      - Viernes
+      - วันศุกร์
+      - Cuma
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Friend
+      TermType: 0
+      Languages:
+      - Bạn bè
+      - Friend
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: GIFT_FOR_WINNER
+      TermType: 0
+      Languages:
+      - Phần thưởng
+      - GET A GIFT
+      - 获得一份礼物
+      - OBTENIR UN CADEAU
+      - EIN GESCHENK BEKOMMEN
+      - एक उपहार लें
+      - DAPATKAN HADIAH
+      - RICEVI UN REGALO
+      - ギフトを獲得
+      - 선물 받기
+      - RECEBER UM PRESENTE
+      - ПОЛУЧИТЬ ПОДАРОК
+      - CONSIGUE UN REGALO
+      - รับของขวัญ
+      - HEDİYENİ AL
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: HaveAGift
+      TermType: 0
+      Languages:
+      - "Xin chào!\nTôi có món quà dành cho bạn"
+      - "Hello!\n I have a gift for you"
+      - "你好！\n 我有一份礼物要送给你"
+      - "Bonjour !\n J'ai un cadeau pour vous"
+      - "Hallo!\n Ich habe ein Geschenk für dich."
+      - "नमस्कार! \n मेरे पास आपके लिए एक उपहार है"
+      - "Hai!\n Aku punya hadiah untukmu"
+      - "Ciao!\n Ho un regalo per te"
+      - "こんにちは！\n あなたへのギフトがありますよ"
+      - "안녕하세요!\n 드릴 선물이 있어요"
+      - "Olá!\n Tenho um presente para ti"
+      - "Привет!\n У меня для вас подарок!"
+      - "¡Hola!\n Tengo un regalo para ti."
+      - "สวัสดี!\n ฉันมีของขวัญให้คุณ"
+      - "Merhaba!\n Senin için bir hediyem var"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Highscore
+      TermType: 0
+      Languages:
+      - Điểm cao
+      - Highscore
+      - 高分
+      - Record
+      - Highscore
+      - उच्‍च अंक
+      - Skor
+      - Record
+      - ハイスコア
+      - 고득점
+      - Pontuação máxima
+      - Рекорд
+      - Récord
+      - คะแนนสูงสุด
+      - Yüksek skor
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Level
+      TermType: 0
+      Languages:
+      - Màn
+      - Level
+      - 关卡
+      - Niveau
+      - Level
+      - लेवल
+      - Level
+      - Livello
+      - ステージ
+      - 레벨
+      - Nível
+      - Уровень
+      - Nivel
+      - เลเวล
+      - Seviye
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Level_not_already
+      TermType: 0
+      Languages:
+      - Cấp chưa có! Đợi một ngày để trải nghiệm nó
+      - Level not already! Wait a day to experence it
+      - 关卡还未准备好！等待一天后体验吧
+      - Niveau pas encore prêt ! Attendez un jour pour le découvrir
+      - Level nicht bereit! Warte noch einen Tag.
+      - लेवल पहले से ही नहीं है! इसका अनुभव लेने के लिए एक दिन प्रतीक्षा करें
+      - Level belum siap! Tunggu sehari untuk menjajalnya
+      - Non salire di livello adesso! Aspetta un giorno per provarlo
+      - ステージはまだありません！ 1日待ってからお楽しみください
+      - 레벨이 아직 없음! 하루를 기다려 주세요
+      - O nível não está pronto! Espera um dia para lhe acederes
+      - Уровень еще не готов! Нужно подождать один день.
+      - ¡El nivel no está listo! Espera un día para disfrutarlo.
+      - เลเวลยังไม่พร้อม! รอหนึ่งวันค่อยสัมผัสประสบการณ์
+      - Seviye hazır değil! Denemek için bir gün bekle
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Loading
+      TermType: 0
+      Languages:
+      - Đang tải
+      - Loading
+      - 正在加载
+      - Chargement
+      - Wird geladen
+      - लोड हो रहा है
+      - Memuat
+      - Caricamento in corso
+      - ロード中
+      - 불러오는 중
+      - A carregar
+      - Загрузка
+      - Cargando
+      - กำลังโหลด
+      - Yükleniyor
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Lucky_wheel
+      TermType: 0
+      Languages:
+      - Vòng quay may mắn
+      - Lucky wheel
+      - 幸运转盘
+      - Roue de la fortune
+      - Glücksrad
+      - भाग्‍यशाली व्‍हील
+      - Roda keberuntungan
+      - Ruota della Fortuna
+      - ラッキ―ホイール
+      - 행운 휠
+      - Roda da sorte
+      - Колесо Фортуны
+      - Ruleta de la suerte
+      - วงล้อนำโชค
+      - Şans ruleti
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Monday
+      TermType: 0
+      Languages:
+      - Thứ Hai
+      - Monday
+      - 星期一
+      - Lundi
+      - Montag
+      - सोमवार
+      - Senin
+      - Lunedì
+      - 月曜日
+      - 월요일
+      - Segunda-feira
+      - Понедельник
+      - Lunes
+      - วันจันทร์
+      - Pazartesi
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Music
+      TermType: 0
+      Languages:
+      - Nhạc nền
+      - Music
+      - 音乐
+      - Musique
+      - Musik
+      - संगीत
+      - Musik
+      - Musica
+      - ミュージック
+      - 음악
+      - Música
+      - Музыка
+      - Música
+      - เพลง
+      - Müzik
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Not_Enough_Gold
+      TermType: 0
+      Languages:
+      - Không đủ vàng
+      - Not Enough Coin
+      - 金币不足
+      - Pièces insuffisantes
+      - Nicht genug Münzen
+      - पर्याप्‍त सिक्‍का नहीं
+      - Koin Tidak Cukup
+      - Monete insufficienti
+      - コインが不足しています
+      - 코인 부족
+      - Não tens moedas suficientes
+      - Недостаточно монет
+      - No hay suficientes monedas
+      - เหรียญไม่เพียงพอ
+      - Yeterli Sikke Yok
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Not_change_pet_ingame
+      TermType: 0
+      Languages:
+      - Bạn không thể thay thú cưng ở trong khi đang chơi.
+      - Cannot change pet while playing.
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Not_enough_card
+      TermType: 0
+      Languages:
+      - Không đủ thẻ
+      - Not Enough Card
+      - 卡片不足
+      - Cartes insuffisantes
+      - Nicht genug Karten
+      - पर्याप्‍त कार्ड नहीं
+      - Kartu Tidak Cukup
+      - Carte insufficienti
+      - カードが足りません
+      - 카드 부족
+      - Sem cartas suficientes
+      - Недостаточно карт
+      - No hay cartas suficientes
+      - การ์ดไม่เพียงพอ
+      - Yeterli Kart Yok
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Not_enough_star
+      TermType: 0
+      Languages:
+      - Không đủ sao, thu thập thêm!
+      - Not enough stars, collect more!
+      - 星星不足，快去多收集些吧！
+      - Étoiles insuffisantes. Récupérez-en d'autres !
+      - Nicht genug Sterne, sammle mehr!
+      - पर्याप्त स्‍टार्स नहीं, और एकत्रित करें!
+      - Bintang tidak cukup, kumpulkan lebih banyak!
+      - Stelle insufficienti; accumulane di più!
+      - スターが足りません、もっと集めましょう！
+      - 스타 부족, 더 모으세요!
+      - Não tens estrelas suficientes, recolhe mais!
+      - Не хватает звезд, соберите больше!
+      - ¡No tienes suficientes estrellas, consigue más!
+      - ดาวไม่เพียงพอ รวบรวมเพิ่มอีก!
+      - Yeterli yıldız yok, daha fazla topla!
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Notify
+      TermType: 0
+      Languages:
+      - Thông báo
+      - Notify
+      - 通知
+      - Notifier
+      - Benachrichtigen
+      - सूचित करें
+      - Beri tahu
+      - Avvisami
+      - 通知
+      - 공지
+      - Notificar
+      - Оповестить
+      - Notificar
+      - แจ้งเตือน
+      - Bildir
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: OK
+      TermType: 0
+      Languages:
+      - Đồng ý
+      - OK
+      - 好
+      - OK
+      - OK
+      - ठीक है
+      - OKE
+      - Ok
+      - OK
+      - 확인
+      - OK
+      - OK
+      - Aceptar
+      - ตกลง
+      - TAMAM
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Pause
+      TermType: 0
+      Languages:
+      - Tạm dừng
+      - Pause
+      - 暂停
+      - Pause
+      - Pause
+      - रोकें
+      - Jeda
+      - Pausa
+      - 一時停止
+      - 일시 정지
+      - Pausa
+      - Пауза
+      - Pausa
+      - หยุดชั่วคราว
+      - Duraklat
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: PetDragon_Des
+      TermType: 0
+      Languages:
+      - Tấn công khi phát hiện kẻ địch. Thời gian hồi chiêu là 10 giây.
+      - Attacks detected enemies. 10 seconds to cool down.
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: PetFairy
+      TermType: 0
+      Languages:
+      - Bảo vệ nhân vật khi chạm vào quân địch, hoặc bị địch tấn công trong 3 giây. Chỉ dùng được 1 lần trong 1 màn chơi.
+      - protects character from touching or attacked by enemies for 3 seconds. 01 use  for 01 level only.
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: PetTurtle_Des
+      TermType: 0
+      Languages:
+      - Bảo vệ nhân vật khi bị rơi xuống vực. Chỉ dùng được 1 lần trong 1 màn chơi.
+      - protects character from cliff fall. 01 use  for 01 level only.
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Play
+      TermType: 0
+      Languages:
+      - Chơi
+      - Play
+      - 开始游戏
+      - Jouer
+      - Spielen
+      - खेलें
+      - Main
+      - Gioca
+      - プレイ
+      - 플레이
+      - Reproduzir
+      - Играть
+      - Jugar
+      - เล่น
+      - Oyna
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Please_wait
+      TermType: 0
+      Languages:
+      - Vui lòng đợi
+      - Please wait!
+      - 请等待！
+      - Veuillez patienter !
+      - Bitte warten!
+      - कृपया इंतजार करें!
+      - Mohon tunggu!
+      - Aspetta!
+      - お待ちください！
+      - 기다려 주세요!
+      - Por favor, espera!
+      - Подождите!
+      - ¡Espera!
+      - กรุณารอ!
+      - Lütfen bekle!
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Power
+      TermType: 0
+      Languages:
+      - Sức mạnh
+      - Power
+      - 能量
+      - Puissance
+      - Energie
+      - शक्ति
+      - Kekuatan
+      - Energia
+      - パワー
+      - 파워
+      - Poder
+      - Мощь
+      - Poder
+      - พลัง
+      - Enerji
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Profile
+      TermType: 0
+      Languages:
+      - Ảnh đại diện
+      - Avatar
+      - 头像
+      - Avatar
+      - Avatar
+      - अवतार
+      - Avatar
+      - Avatar
+      - アバター
+      - 아바타
+      - Avatar
+      - Аватар
+      - Avatar
+      - รูปประจำตัว
+      - Avatar
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: QUIT_GAME
+      TermType: 0
+      Languages:
+      - Bạn có muốn thoát khỏi trò chơi?
+      - are you sure want to quit game?
+      - 确定要退出游戏吗？
+      - Voulez-vous vraiment quitter le jeu ?
+      - Möchtest du das Spiel wirklich verlassen?
+      - क्या आप वाकई गेम छोड़ना चाहते हैं?
+      - Yakin ingin keluar dari gim?
+      - Sicuro di voler uscire dalla partita?
+      - 本当にゲームを終了しますか？
+      - 정말로 게임에서 나가시겠습니까?
+      - tens a certeza de que queres sair do jogo?
+      - Вы уверены, что хотите выйти из игры?
+      - ¿Seguro que quieres salir del juego?
+      - คุณแน่ใจหรือว่าต้องการออกจากเกม
+      - Oyundan çıkmak istediğinden emin misin?
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Rate
+      TermType: 0
+      Languages:
+      - Đánh giá
+      - Rate
+      - 评分
+      - Évaluer
+      - Bewerten
+      - रेट करें
+      - Beri Rating
+      - Valuta
+      - 評価
+      - 평가
+      - Avaliar
+      - Оценить
+      - Puntuar
+      - ให้คะแนน
+      - Puan ver
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Refresh
+      TermType: 0
+      Languages:
+      - Làm mới
+      - Refresh
+      - 刷新
+      - Actualiser
+      - Aktualisieren
+      - रिफ्रेश
+      - Refresh
+      - Aggiorna
+      - リフレッシュ
+      - 새로 고침
+      - Atualizar
+      - Обновить
+      - Actualizar
+      - รีเฟรช
+      - Yenile
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: RemindLater
+      TermType: 0
+      Languages:
+      - Nhắc tôi sau!
+      - Remind me later!
+      - 稍后提醒我！
+      - Me le rappeler plus tard !
+      - Später erinnern!
+      - मुझे बाद में याद दिलाएं!
+      - Ingatkan nanti!
+      - Ricordamelo più tardi!
+      - 後でまた通知して！
+      - 나중에 알려주세요!
+      - Lembrar-me mais tarde!
+      - Напомните мне позже!
+      - Recordármelo más tarde
+      - เตือนฉันภายหลัง!
+      - Sonra hatırlat!
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: RemoveAds
+      TermType: 0
+      Languages:
+      - Gỡ quảng cáo
+      - Remove ADS
+      - 移除广告
+      - Supprimer les pubs
+      - Werbung entfernen
+      - विज्ञापन हटाएं
+      - Hapus IKLAN
+      - Rimuovi la pubblicità
+      - 広告を削除
+      - 광고 제거
+      - Remover ANÚNCIOS
+      - Убрать рекламу
+      - Eliminar publicidad
+      - ลบโฆษณา
+      - REKLAMLARI kaldır
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Rent_for
+      TermType: 0
+      Languages:
+      - Dùng cho
+      - Rent for
+      - 租金用于
+      - Louer pour
+      - Miete für
+      - के लिए किराया
+      - Sewa untuk
+      - Affitta per
+      - レンタル：
+      - 대여
+      - Alugar por
+      - Аренда для
+      - Alquilar por
+      - เช่า
+      - Kirala
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Revive
+      TermType: 0
+      Languages:
+      - Hồi sinh
+      - Revive
+      - 复活
+      - Ressusciter
+      - Wiederbeleben
+      - पुनर्जीवित करें
+      - Hidup Kembali
+      - Resuscita
+      - 復活
+      - 부활
+      - Resuscitar
+      - Воскресить
+      - Resucitar
+      - คืนชีพ
+      - Canlan
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: SHOP
+      TermType: 0
+      Languages:
+      - Cửa hàng
+      - SHOP
+      - 商店
+      - BOUTIQUE
+      - SHOP
+      - खरीददारी
+      - TOKO
+      - NEGOZIO
+      - ショップ
+      - 상점
+      - LOJA
+      - МАГАЗИН
+      - TIENDA
+      - ร้านค้า
+      - MAĞAZA
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: STARTER_PACK
+      TermType: 0
+      Languages:
+      - GÓI TÂN THỦ
+      - STARTER PACK
+      - 新手礼包
+      - PACK DE DÉBUTANT
+      - STARTERPAKET
+      - स्टार्टर पैक
+      - PAKET PEMULA
+      - PACCHETTO PRINCIPIANTE
+      - スターターパック
+      - 스타터 팩
+      - PACOTE DE INICIANTE
+      - НАБОР НОВОБРАНЦА
+      - PAQUETE DE PRINCIPANTE
+      - แพ็กผู้เริ่มต้น
+      - BAŞLANGIÇ PAKETİ
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Saturday
+      TermType: 0
+      Languages:
+      - Thứ bảy
+      - Saturday
+      - 星期六
+      - Samedi
+      - Samstag
+      - शनिवार
+      - Sabtu
+      - Sabato
+      - 土曜日
+      - 토요일
+      - Sábado
+      - Суббота
+      - Sábado
+      - วันเสาร์
+      - Cumartesi
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Score
+      TermType: 0
+      Languages:
+      - Điểm
+      - Score
+      - 分数
+      - Score
+      - Punktzahl
+      - स्‍कोर
+      - Skor
+      - Punteggio
+      - スコア
+      - 점수
+      - Pontuação
+      - Счет
+      - Puntuación
+      - คะแนน
+      - Puan
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Setting
+      TermType: 0
+      Languages:
+      - Cài đặt
+      - Setting
+      - 设置
+      - Paramètres
+      - Einstellung
+      - सेटिंग
+      - Setelan
+      - Impostazione
+      - 設定
+      - 설정
+      - Definição
+      - Параметр
+      - Ajuste
+      - ตั้งค่า
+      - Ayar
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Sound
+      TermType: 0
+      Languages:
+      - Âm thanh
+      - Sound
+      - 声音
+      - Son
+      - Sound
+      - ध्‍वनि
+      - Suara
+      - Audio
+      - サウンド
+      - 사운드
+      - Som
+      - Звук
+      - Sonido
+      - เสียง
+      - Ses
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Spring
+      TermType: 0
+      Languages:
+      - Mùa xuân
+      - Spring
+      - 春天
+      - Printemps
+      - Frühling
+      - बसंत ऋतु
+      - Musim Semi
+      - Molla
+      - 春
+      - 봄
+      - Primavera
+      - Весна
+      - Primavera
+      - น้ำพุร้อน
+      - Bahar
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Star
+      TermType: 0
+      Languages:
+      - Sao
+      - Star
+      - 星星
+      - Étoile
+      - Stern
+      - स्‍टार
+      - Bintang
+      - Stella
+      - スター
+      - 스타
+      - Estrela
+      - Звезда
+      - Estrella
+      - ดาว
+      - Yıldız
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Sunday
+      TermType: 0
+      Languages:
+      - Chủ nhật
+      - Sunday
+      - 星期天
+      - Dimanche
+      - Sonntag
+      - रविवार
+      - Minggu
+      - Domenica
+      - 日曜日
+      - 일요일
+      - Domingo
+      - Воскресенье
+      - Domingo
+      - วันอาทิตย์
+      - Pazar
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Tap_to_play
+      TermType: 0
+      Languages:
+      - Chạm để chơi
+      - Tap To Play
+      - 点击开始游戏
+      - Toucher pour jouer
+      - Zum Spielen tippen
+      - खेलने के लिए टैप करें
+      - Sentuh Untuk Main
+      - Tocca per giocare
+      - タップしてプレイ
+      - 탭하여 플레이
+      - Toca para jogar
+      - Коснитесь, чтобы играть
+      - Toca para jugar
+      - แตะเพื่อเล่น
+      - Oynamak İçin Dokun
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Thank_for_rate
+      TermType: 0
+      Languages:
+      - Cám ơn đánh giá của bạn cho chúng tôi. Chúng tôi sẽ cải thiện trò chơi tốt hơn vào bản cập nhật tiếp theo.
+      - Thank you for rating! We will do our best to improve the game and your experience in the next version.
+      - 感谢你的评分！我们会在下个版本努力优化游戏并提升游戏体验。
+      - Merci pour votre note ! Nous ferons de notre mieux pour améliorer le jeu et vous garantir une meilleure expérience dans la prochaine version.
+      - Vielen Dank für deine Bewertung! Wir tun unser Bestes, um das Spiel zu verbessern und in der nächsten Version für dich noch schöner zu gestalten.
+      - रेटिंग के लिए धन्यवाद! हम अगले संस्करण में गेम और आपके अनुभव को बेहतर बनाने की पूरी कोशिश करेंगे।
+      - Terima kasih atas ratingnya! Kami terus melakukan yang terbaik untuk meningkatkan gim dan pengalaman bermainmu di versi berikutnya.
+      - Grazie per il tuo voto! Faremo del nostro meglio per migliorare il gioco e la tua esperienza nella prossima versione.
+      - 評価ありがとうございます！私たちは更にゲームを良くし、あなたにより良いゲーム経験をして頂けるように更なる努力をしていきます。
+      - 평가해 주셔서 감사합니다! 최선을 다해서 게임과 다음 버전의 경험을 향상시키겠습니다.
+      - Obrigado pela tua classificação! Iremos fazer o nosso melhor para otimizar o jogo e a tua experiência na próxima versão.
+      - Спасибо за вашу оценку! Мы сделаем все возможное, чтобы улучшить игру и ваше мнение в следующей версии.
+      - ¡Gracias por la puntuación! Haremos lo posible por mejorar el juego y tu experiencia en la próxima versión.
+      - ขอบคุณสำหรับคะแนน!เราจะพยายามปรับปรุงเกมและประสบการณ์ของคุณให้ดีที่สุดในเวอร์ชันหน้า
+      - Puan için teşekkürler! Sonraki sürümde oyunu ve deneyimini geliştirmek için elimizden gelenin en iyisini yapacağız.
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Thursday
+      TermType: 0
+      Languages:
+      - Thứ năm
+      - Thursday
+      - 星期四
+      - Jeudi
+      - Donnerstag
+      - बृहस्‍पतिवार
+      - Kamis
+      - Giovedì
+      - 木曜日
+      - 목요일
+      - Quinta-feira
+      - Четверг
+      - Jueves
+      - วันพฤหัสบดี
+      - Perşembe
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Time
+      TermType: 0
+      Languages:
+      - Thời gian
+      - Time
+      - 时间
+      - Temps
+      - Zeit
+      - समय
+      - Waktu
+      - Tempo
+      - 時間
+      - 시간
+      - Tempo
+      - Время
+      - Tiempo
+      - เวลา
+      - Zaman
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: TryAgain
+      TermType: 0
+      Languages:
+      - Thử lại!
+      - Try again!
+      - 请重试！
+      - Réessayer !
+      - Versuch's nochmal!
+      - दुबारा आजमाएं!
+      - Coba lagi!
+      - Riprova!
+      - やり直す！
+      - 다시 시도하세요!
+      - Tente novamente!
+      - Попытайтесь еще раз!
+      - ¡Vuelve a intentarlo!
+      - ลองอีกครั้ง!
+      - Tekrar dene
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Tuesday
+      TermType: 0
+      Languages:
+      - Thứ Ba
+      - Tuesday
+      - 星期二
+      - Mardi
+      - Dienstag
+      - मंगलवार
+      - Selasa
+      - Martedì
+      - 火曜日
+      - 화요일
+      - Terça-feira
+      - Вторник
+      - Martes
+      - วันอังคาร
+      - Salı
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Unlimited
+      TermType: 0
+      Languages:
+      - Vô hạn
+      - Unlimited
+      - 无限
+      - Illimité(e)
+      - Unbegrenzt
+      - असीमित
+      - Tak terbatas
+      - Illimitato
+      - 無限
+      - 무제한
+      - Ilimitado
+      - Неограниченно
+      - Sin límite
+      - ไม่จำกัด
+      - Sınırsız
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Unlock_world
+      TermType: 0
+      Languages:
+      - Bạn cần có NUM sao để mở khóa màn chơi
+      - You need NUM star to unlock world!
+      - 你需要NUM颗星星解锁世界！
+      - Il vous faut NUM étoiles pour débloquer ce monde !
+      - Du brauchst NUM Stern, um die Welt freizuschalten!
+      - दुनिया को अनलॉक करने के लिए आपको NUM स्टार की आवश्यकता है!
+      - Kamu butuh bintang NUM untuk mengaktifkan dunia!
+      - Ti servono NUM stelle per sbloccare il mondo!
+      - ワールドの解放にはNUM個のスターが必要です！
+      - 별 NUM개가 있어야 월드를 잠금 해제할 수 있습니다!
+      - Precisas da estrela NUM para desbloqueares o mundo!
+      - Чтобы разблокировать мир, нужно NUM звезд!
+      - ¡Necesitas NUM estrella para desbloquear el mundo!
+      - คุณต้องมี NUM ดาวเพื่อปลดล็อก!
+      - Dünyayı açmak için NUM yıldızın olmalı!
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: UpgradeNow
+      TermType: 0
+      Languages:
+      - Tải ngay
+      - Upgrade now
+      - 立即升级
+      - Améliorer dès maintenant
+      - Jetzt upgraden
+      - अभी अपग्रेड करें
+      - Tingkatkan sekarang
+      - Aggiorna subito
+      - 今すぐアップグレード
+      - 지금 업그레이드
+      - Atualizar agora
+      - Обновить сейчас
+      - Mejorar
+      - อัปเกรดทันที
+      - Şimdi yükselt
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: UpgradeVersionContent
+      TermType: 0
+      Languages:
+      - Chúng tôi đã thực hiện các thay đổi cho trò chơi để cải thiện trải nghiệm của bạn!
+      - We've made changes to the game that will improve your experience!
+      - 我们对游戏做出了修改提升了游戏体验！
+      - Nous avons apporté des modifications au jeu pour améliorer votre expérience !
+      - Wir haben Änderungen am Spiel gemacht, die dein Erlebnis noch besser gestalten!
+      - हमने गेम में बदलाव किए हैं जो आपके अनुभव को बेहतर बनाएंगे!
+      - Kami telah membuat perubahan pada gim yang akan meningkatkan pengalaman bermainmu!
+      - Abbiamo apportato modifiche che miglioreranno la tua esperienza di gioco!
+      - より良い体験をして頂く為に、ゲームに変更を加えました！
+      - 게임 경험을 향상시킬 변경 사항을 적용했습니다!
+      - Fizemos alterações ao jogo que vão melhorar a sua experiência!
+      - Мы усовершенствовали игру, чтобы вам было комфортнее!
+      - ¡Hemos realizado cambios en el juego para mejorar tu experiencia!
+      - เราแก้ไขเกมเพื่อปรับปรุงประสบการณ์ของคุณ!
+      - Oyunda deneyiminizi iyileştirecek bazı değişiklikler yaptık!
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Use
+      TermType: 0
+      Languages:
+      - Sử dụng
+      - Use
+      - 使用
+      - Utiliser
+      - Benutzen
+      - प्रयोग करें
+      - Gunakan
+      - Usa
+      - 使用
+      - 사용
+      - Utilizar
+      - Использовать
+      - Usar
+      - ใช้
+      - Kullan
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Username
+      TermType: 0
+      Languages:
+      - Tên...
+      - Username...
+      - 用户名...
+      - Nom d'utilisateur…
+      - Benutzername …
+      - प्रयोक्‍ता नाम...
+      - Nama pengguna...
+      - Nome utente...
+      - ユーザーネーム…
+      - 사용자 이름...
+      - Nome de utilizador...
+      - Имя пользователя...
+      - Nombre de usuario...
+      - ชื่อผู้ใช้…
+      - Kullanıcı adı…
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Victory
+      TermType: 0
+      Languages:
+      - Chiến thắng
+      - Victory
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Video_Gift
+      TermType: 0
+      Languages:
+      - Xem video nhận quà
+      - Video Gift
+      - 视频礼物
+      - Cadeau vidéo
+      - Video-Geschenk
+      - वीडियो उपहार
+      - Hadiah Video
+      - Regalo video
+      - 動画ギフト
+      - 비디오 선물
+      - Presente vídeo
+      - Видео в подарок
+      - Regalo de vídeo
+      - ของขวัญวีดีโอ
+      - Video Hediye
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Video_Not_Available
+      TermType: 0
+      Languages:
+      - VIDEO KHÔNG SẴN SÀNG, VUI LÒNG THỬ LẠI SAU!
+      - THE VIDEO IS NOT READY, PLEASE TRY AGAIN!
+      - 视频还没准备好，请重试！
+      - LA VIDÉO N'EST PAS PRÊTE, VEUILLEZ RÉESSAYER !
+      - DAS VIDEO IST NICHT BEREIT, BITTE ERNEUT VERSUCHEN!
+      - वीडियो तैयार नहीं है, कृपया फिर से आजमाएं!
+      - VIDEO BELUM SIAP, COBA LAGI NANTI!
+      - IL VIDEO NON È PRONTO; RIPROVA!
+      - まだビデオの用意が出来ていません、また後程お試しください！
+      - 동영상이 준비되지 않았습니다. 다시 시도하세요!
+      - O VÍDEO NÃO ESTÁ PRONTO, POR FAVOR TENTE NOVAMENTE!
+      - ВИДЕО НЕ ГОТОВО, ПОПРОБУЙТЕ ЕЩЕ РАЗ!
+      - ¡EL VÍDEO NO ESTÁ LISTO, INTÉNTALO MÁS TARDE!
+      - วีดีโอไม่พร้อม กรุณาลองอีกครั้ง!
+      - VİDEO HAZIR DEĞİL, LÜTFEN TEKRAR DENEYİN!
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Volcano
+      TermType: 0
+      Languages:
+      - Núi lửa
+      - Volcano
+      - 火山
+      - Volcan
+      - Vulkan
+      - ज्वालामुखी
+      - Gunung Api
+      - Vulcano
+      - 火山
+      - 화산
+      - Vulcão
+      - Вулкан
+      - Volcán
+      - ภูเขาไฟ
+      - Volkan
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: WATCH_VIDEO
+      TermType: 0
+      Languages:
+      - XEM VIDEO
+      - WATCH VIDEO
+      - 观看视频
+      - REGARDER LA VIDÉO
+      - VIDEO ANSEHEN
+      - वीडियो देखें
+      - TONTON VIDEO
+      - GUARDA IL VIDEO
+      - ビデオを観る
+      - 비디오 보기
+      - VER VÍDEO
+      - СМОТРЕТЬ ВИДЕО
+      - VER VÍDEO
+      - ดูวีดีโอ
+      - VİDEO İZLE
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: WatchShortVideo
+      TermType: 0
+      Languages:
+      - Xem 1 đoạn video ngắn để nhận nhiều vàng hơn.
+      - Watch a short video to get more coin.
+      - 观看一小段视频可以获得更多金币。
+      - Regardez une courte vidéo pour obtenir plus de pièces d'or.
+      - Kurzes Video ansehen und mehr Münzen erhalten.
+      - और सिक्‍का प्राप्‍त करने के लिए एक छोटा वीडियो देखें।
+      - Tonton video pendek untuk koin lebih banyak.
+      - Guarda un breve video per ricevere altre monete.
+      - ショートビデオを観て更にゴールドを獲得する
+      - 짧은 영상을 보고 코인을 더 받으세요.
+      - Vê um pequeno vídeo para receberes mais moedas.
+      - Посмотрите короткое видео и получите дополнительные монеты
+      - Mira un vídeo breve para conseguir más monedas.
+      - ดูวีดีโอสั้น ๆ เพื่อรับเหรียญเพิ่ม
+      - Daha fazla sikke almak için kısa bir video izle.
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: WeImproved
+      TermType: 0
+      Languages:
+      - Chúng tôi đã cải thiện game
+      - We've Improved
+      - 我们已优化
+      - Nous avons apporté des améliorations
+      - Wir sind besser geworden
+      - हमने सुधार किया है
+      - Kami telah memutakhirkan
+      - Abbiamo migliorato
+      - 改善しました
+      - 향상되었습니다
+      - Melhoramos
+      - Мы улучшили игру
+      - Hemos mejorado
+      - เราปรับปรุงแล้ว
+      - Geliştirdik
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Wednesday
+      TermType: 0
+      Languages:
+      - Thứ Tư
+      - Wednesday
+      - 星期三
+      - Mercredi
+      - Mittwoch
+      - बुधवार
+      - Rabu
+      - Mercoledì
+      - 水曜日
+      - 수요일
+      - Quarta-feira
+      - Среда
+      - Miércoles
+      - วันพุธ
+      - Çarşamba
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: You_die
+      TermType: 0
+      Languages:
+      - Thua cuộc
+      - You die
+      - 你死了
+      - Vous êtes mort
+      - Du stirbst
+      - आप मर गए
+      - Kamu mati
+      - Sei morto
+      - しんでしまった
+      - 사망
+      - Morreste
+      - Вы умерли
+      - Mueres
+      - คุณตาย
+      - Öldün
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: You_got
+      TermType: 0
+      Languages:
+      - Bạn có
+      - You got
+      - 你获得了
+      - Vous avez
+      - Du bekamst
+      - आपको मिला
+      - Kamu mendapat
+      - Hai ottenuto
+      - 獲得：
+      - 획득
+      - Recebeste
+      - Вы получили
+      - Obtienes
+      - คุณได้
+      - 'Şunu aldın:'
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: You_owned
+      TermType: 0
+      Languages:
+      - Bạn sở hữu
+      - You owned
+      - 你拥有了
+      - Vous obtenez
+      - Du besaßest
+      - आप मालिक हैं
+      - Kamu punya
+      - Hai ricevuto
+      - 獲得済み：
+      - 수령
+      - Tinhas
+      - У вас есть
+      - Has adquirido
+      - คุณมี
+      - 'Şuna sahip oldun:'
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Zone
+      TermType: 0
+      Languages:
+      - VÙNG
+      - ZONE
+      - 区域
+      - ZONE
+      - ZONE
+      - क्षेत्र
+      - ZONA
+      - ZONA
+      - ゾーン
+      - 구역
+      - ZONA
+      - ЗОНА
+      - ZONA
+      - โซน
+      - BÖLGE
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: facebook
+      TermType: 0
+      Languages:
+      - facebook
+      - facebook
+      - facebook
+      - facebook
+      - facebook
+      - फेसबुक
+      - facebook
+      - facebook
+      - フェイスブック
+      - Facebook
+      - facebook
+      - facebook
+      - Facebook
+      - facebook
+      - facebook
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: no_ads
+      TermType: 0
+      Languages:
+      - Không áp dụng quảng cáo
+      - No advertising applied
+      - 没有相关的广告
+      - Pas de pub appliqué
+      - Keine Werbung benutzt
+      - कोई विज्ञापन लागू नहीं हुआ
+      - Tidak ada iklan diterapkan
+      - Nessuna pubblicità
+      - 広告はありません
+      - 적용된 광고 없음
+      - Não foi aplicada publicidade
+      - Без рекламы
+      - No se aplicaron anuncios
+      - ไม่มีการโฆษณา
+      - Hiç reklam uygulanmıyor
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: rounds
+      TermType: 0
+      Languages:
+      - màn chơi
+      - rounds
+      - 回合
+      - tours
+      - Runden
+      - राउंड्स
+      - babak
+      - turni
+      - ラウンド
+      - 라운드
+      - rondas
+      - раунды
+      - rondas
+      - รอบ
+      - rauntlar
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: time_use
+      TermType: 0
+      Languages:
+      - màn sử dụng
+      - rounds use
+      - 回合使用
+      - utilisation des tours
+      - Runden benutzen
+      - राउंड्स प्रयोग करें
+      - babak menggunakan
+      - turni di utilizzo
+      - ラウンドで使用
+      - 라운드 사용
+      - rondas utilizaram
+      - использование раундов
+      - uso de rondas
+      - รอบใช้
+      - raunt kullanımı
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: times_use_Dart
+      TermType: 0
+      Languages:
+      - màn sử dụng phi tiêu
+      - rounds use Dart
+      - 回合使用飞镖
+      - utilisation des fléchettes
+      - Runden benutzen Pfeil
+      - राउंड्स डार्ट का प्रयोग करें
+      - babak menggunakan Dart
+      - turni di utilizzo dardo
+      - ラウンドではダーツを使用
+      - 라운드 사용 다트
+      - rondas utilizaram o Dardo
+      - раунды используют дартс
+      - uso de rondas de dardo
+      - รอบใช้ลูกดอก
+      - raunt kullanımı Dart
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Mode
+      TermType: 0
+      Languages:
+      - Chế độ
+      - Mode
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Day
+      TermType: 0
+      Languages:
+      - Ngày
+      - Day
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: welcomeHlw
+      TermType: 0
+      Languages:
+      - Chào mừng đến với chế độ Noel!
+      - Welcome to Noel mode!
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Watch_Video_Get_Card
+      TermType: 0
+      Languages:
+      - Không đủ thẻ. Bạn có muốn xem video để nhận thẻ miễn phí không?
+      - Not enough cards. Watch a video to get free cards?
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Offerwall_Get_Card
+      TermType: 0
+      Languages:
+      - Không đủ thẻ. Bạn có muốn làm nhiệm vụ để nhận thẻ miễn phí không?
+      - "Not enough cards. Complete some missions to get free cards?\r"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Missions_not_ready
+      TermType: 0
+      Languages:
+      - Nhiệm vụ chưa sẵn sàng!
+      - Mission no ready!
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Tip_tapOn
+      TermType: 0
+      Languages:
+      - Ấn nút nhảy để nhảy.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      - Tap on jump button to jump.
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Tip_tapHold
+      TermType: 0
+      Languages:
+      - Giữ nút nhảy, để có thể nhảy cao hơn.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      - Hold the jump button to jump higher.
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Tip_doubleTap
+      TermType: 0
+      Languages:
+      - Ấn nút nhảy 2 lần để nhảy xa hơn.
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      - "Double tap the jump button to jump further.\r"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Tip
+      TermType: 0
+      Languages:
+      - Mẹo
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      - Tip
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: more_game
+      TermType: 0
+      Languages:
+      - "Các màn chơi tiếp theo sẽ được cập nhật trong thời gian sớm nhất !\r\nBạn có muốn chơi thử các trò chơi Bob's World khác trong lúc chờ đợi ?"
+      - "New levels are getting updated asap!\r\nMeanwhile, let's concur other Bob's World adventures!\r"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: privacy_policy
+      TermType: 0
+      Languages:
+      - privacy options
+      - privacy options
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName:
+    mLanguages:
+    - Name: Vietnamese
+      Code: vi
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Chinese (Simplified)
+      Code: zh-CN
+      Flags: 0
+    - Name: French
+      Code: fr
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: Hindi
+      Code: hi
+      Flags: 0
+    - Name: Indonesian
+      Code: id
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Thai
+      Code: th
+      Flags: 0
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/a/onesoft.com.vn/macros/s/AKfycbyejFLg8oUfvkd1BOhexjLtXGa7Rm-XQ8MRajlg/exec
+    Google_SpreadsheetKey: 1jSvh_KyxZGFU-hn1DqSA_LeSko7DfcIwwnEDD8CEC-Q
+    Google_SpreadsheetName: I2Loc Bob's World 2 Localization
+    Google_LastUpdatedVersion: 1599532107247
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 12800000, guid: 673e0a6179eaae54db0a0e345c1d7e86, type: 3}
+    - {fileID: 12800000, guid: 73a6bd39089ce754f94bbc416189bf12, type: 3}
+    - {fileID: 12800000, guid: d1958bb86f1d25f4d9c02e929fc4adac, type: 3}
+    - {fileID: 12800000, guid: 0cafde5267f8a47408fafb444fb516a2, type: 3}
+    - {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
